@@ -5,7 +5,7 @@ Loneby
 # Category
 Footwear
 # Documentation
-https://github.com/VajanthaNathan/NM2023TMID01268/blob/main/Document.pdf
+https://drive.google.com/file/d/1EwRkcim-CImWpqSl_MGpYQyVlU27a6GY/view?usp=drivesdk
 # Google Analytics Measurement Id 
 G-YRZG55MCLF
 # Project Execution Recorded video
